@@ -34,7 +34,7 @@ namespace ParaHacerPruebasrapidas
 			for (int i = 0; i < 10; i++)
 			{
 
-				int numerosAleatorio = rnd.Next(minimo, maximo);
+				int numerosAleatorio = rnd.Next(minimo, maximo + 1);
 				numerosGenerados[i] = numerosAleatorio;
 			}
 
