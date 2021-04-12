@@ -1,0 +1,13 @@
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.exe
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.deps.json
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.runtimeconfig.json
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.runtimeconfig.dev.json
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.dll
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\bin\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.pdb
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.csprojAssemblyReference.cache
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.AssemblyInfoInputs.cache
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.AssemblyInfo.cs
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.dll
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.pdb
+D:\Visual Studio Proyectos\ParaHacerPruebasrapidas\ParaHacerPruebasrapidas\obj\Debug\netcoreapp3.1\ParaHacerPruebasrapidas.genruntimeconfig.cache
