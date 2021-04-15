@@ -9,20 +9,26 @@ namespace ParaHacerPruebasrapidas
 
 		static void Main(string[] args)
         {
+
+			//mostrarLosNumerosAleatorios();
+			CalcularEstacionDelAnio calcularAnio = new CalcularEstacionDelAnio();
+
+		}
+
+		static void mostrarLosNumerosAleatorios()
+        {
 			Console.WriteLine("HOLA World");
 			listaDeNumerosAleatorios = GenerarNumerosAleatorios();
 			string losNumerosSon = "";
-			foreach(int i in listaDeNumerosAleatorios)
-            {
+			foreach (int i in listaDeNumerosAleatorios)
+			{
 				losNumerosSon = losNumerosSon + "  " + i;
-            }
+			}
 
 			Console.WriteLine("Los numeros aleatorios son: " + losNumerosSon);
 			Console.WriteLine("El numero Minimo es: " + CalcularMinimo(listaDeNumerosAleatorios));
 			Console.WriteLine("El numero Maximo es: " + CalcularMaximo(listaDeNumerosAleatorios));
 			Console.WriteLine("La Suma de todo es: " + SumaDeTodosLosNumeros(listaDeNumerosAleatorios));
-
-
 		}
 
 		static int[] GenerarNumerosAleatorios(int minimo = 400, int maximo = 800)
