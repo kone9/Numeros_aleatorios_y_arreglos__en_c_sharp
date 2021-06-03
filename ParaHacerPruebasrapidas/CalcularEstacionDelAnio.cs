@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ParaHacerPruebasrapidas
 {
-    class CalcularEstacionDelAnio
+    class CalcularEstacionDelAnio //OJO ESTE EJERCICIO NO ESTA TERMINADO, HAY PROBLEMA CON LAS FECHAS
     {
 
         public CalcularEstacionDelAnio()//metodo contructor esto es c# se llama desde el Main
@@ -57,9 +57,6 @@ namespace ParaHacerPruebasrapidas
         {
             Console.WriteLine("la fecha ingresada es incorrecta");
         }
-
-
-
 
     }
 }
